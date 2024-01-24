@@ -1,5 +1,9 @@
 # How to get it running
-
+- Install [Node.js](https://nodejs.org/en).
+- Clone the repository to your machine.
+- Open PowerShell into the root folder.
+- Run 'npm install'.
+- After that, open the website with 'npm run dev'.
 
 # Oura Summer Trainee Code Task
 

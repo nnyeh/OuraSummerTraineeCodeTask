@@ -77,9 +77,3 @@ What will <b>NOT</b> be evaluated:
 
 We will give everyone feedback of the submitted task. We'd like to encourage you to submit
 the task even if you don't complete it fully.
-
-## Feedback on the assignment
-
-We'd also ask you to give us feedback of how the task felt like. The feedback is completely anonymous
-and therefore doesn't affect the evaluation. Answer the feedback questionnaire through
-[this link](https://forms.gle/NGKCrNnCC82tz52QA).
